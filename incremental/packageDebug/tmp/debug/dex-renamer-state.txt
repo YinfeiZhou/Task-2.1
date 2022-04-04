@@ -1,0 +1,4 @@
+#Sat Apr 02 00:23:51 CST 2022
+base.0=/Users/allison/Desktop/UnitConverterAndroidApp/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
